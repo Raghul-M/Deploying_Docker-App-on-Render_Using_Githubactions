@@ -7,7 +7,7 @@
 
 
 
-This repository contains the code for a Streamlit-based portfolio application, which has been dockerized and is deployed on Render using GitHub Actions. The project showcases how to build, containerize, and deploy a Streamlit application seamlessly using Docker and automated CI/CD pipelines.
+This repository contains the code for a Streamlit-based portfolio application, which has been dockerized and is deployed on Render using GitHub Actions. The project showcases how to build, containerize, and deploy a Streamlit application seamlessly using Docker and automated CI/CD pipelines. new one
 
 
 
